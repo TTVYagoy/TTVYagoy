@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TTVYagoy
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Yagoy
+- 👀 I’m interested in gaming and media
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me (don't)
 
